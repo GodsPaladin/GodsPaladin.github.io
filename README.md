@@ -1,18 +1,24 @@
                                Welcome to my portfolio
 
 ```markdown
-Syntax highlighted code block
+`Syntax highlighted code block`
 
 #  Wow
+⟹ [Image]
+(Src)
 
-- Bulleted
-- List
+⟹ [Image]
+(Src)
 
-1. Numbered
-2. List
+⟹ [Image]
+(Src)
 
-**Bold** and _Italic_ and `Code` text
+⟹ [Image]
+(Src)
 
-[Link](url) and ![Image](src)
+⟹ [Image]
+(Src)
+
+
 ```
 

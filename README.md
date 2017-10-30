@@ -34,4 +34,4 @@
 
 
 
-All rights reserved //Contributor: MindOfGinge //
+All rights reserved //Contributor: MindOfGinge // [ https://mindofginge.github.io/ ] //

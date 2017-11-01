@@ -3,7 +3,7 @@
 ```markdown
 `Syntax highlighted code block`
 
-#  Wow
+
 ⟹ [Image]
 (Src)
 

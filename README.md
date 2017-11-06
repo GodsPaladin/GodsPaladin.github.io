@@ -1,24 +1,32 @@
                                Welcome to my portfolio
 
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/6qkdk" ></script>
-
-⟹ [Image]
-(Src)
-
-⟹ [Image]
-(Src)
-
-⟹ [Image]
-(Src)
-
-⟹ [Image]
-(Src)
-
-⟹ [Image]
-(Src)
 
 
-```
+
+⟹ [<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/6qkdk" ></script>
+] (Src)
+
+⟹ [Image] (Src)
+
+⟹ [Image] (Src)
+
+⟹ [Image] (Src)
+
+⟹ [Image] (Src)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

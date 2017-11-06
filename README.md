@@ -7,7 +7,7 @@
 
 ⟹ <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/jja80" ></script>
 
-⟹ [Image] (Src)
+⟹ <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/m4jk7" ></script>
 
 ⟹ [Image] (Src)
 

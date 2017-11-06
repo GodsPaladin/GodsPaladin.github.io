@@ -40,4 +40,3 @@
 
 
 All rights reserved //Contributor: MindOfGinge \ https://mindofginge.github.io/ //
- 

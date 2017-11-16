@@ -13,8 +13,7 @@ This is a portfolio of a few 360
 
 ⟹ <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/dxr1p" ></script>
 
-⟹ [Image] (Src)
-
+⟹ <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/ad7g" ></script>
 
 
 

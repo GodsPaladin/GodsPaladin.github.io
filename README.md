@@ -1,6 +1,6 @@
                                360 Portfolio
                                
-This is a portfolio has few 360 pictures taken with the Ricoh Theta 360 degree camera.
+This is a portfolio has few 360 images taken with the Ricoh Theta 360 degree camera.
 
 
 
